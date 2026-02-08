@@ -123,7 +123,7 @@ p { text-align: left; }
 /* --- HERO SECTION (Startbildschirm) --- */
 .hero {
   background: linear-gradient(rgba(15, 23, 42, 0.75), rgba(15, 23, 42, 0.85)),
-              url('https://fastly.picsum.photos/id/8/5000/3333.jpg?hmac=OeG5ufhPYQBd6Rx1TAldAuF92lhCzAhKQKttGfawWuA') center/cover no-repeat fixed;
+              url('../Hintergrund.jpg') center/cover no-repeat fixed;
   text-align: center;
   color: white; /* Text bleibt weiß für Kontrast */
   min-height: 100vh;
@@ -309,3 +309,4 @@ footer {
 @media (max-width: 600px) {
   .social-links a { width: 24px; height: 24px; }
 }
+
