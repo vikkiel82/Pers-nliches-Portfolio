@@ -189,7 +189,7 @@ p { text-align: left; }
 .arduino-projekt {
   /* Der Trick: Eine weiße, fast durchsichtige Schicht (0.85) über dem Bild */
   background-image: linear-gradient(rgba(255, 255, 255, 0.167), rgba(255, 255, 255, 0.85)),
-                    url('../arduino.png'); /* <-- Hier musst du deinen Dateinamen eintragen */
+                    url('arduino.png'); /* <-- Hier musst du deinen Dateinamen eintragen */
   background-size: cover;      /* Das Bild soll die ganze Karte ausfüllen */
   background-position: center; /* Das Bild wird zentriert */
 }
@@ -197,7 +197,7 @@ p { text-align: left; }
 /* Spezielles Design für das Portfolio-Projekt */
 .portfolio-projekt {
   background-image: linear-gradient(rgba(255, 255, 255, 0.167), rgba(255, 255, 255, 0.85)),
-                    url('../projekt.png'); /* <-- Hier deinen Dateinamen eintragen */
+                    url('projekt.png'); /* <-- Hier deinen Dateinamen eintragen */
   background-size: cover;
   background-position: center;
 }
