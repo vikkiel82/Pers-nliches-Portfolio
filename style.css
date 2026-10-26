@@ -379,8 +379,8 @@ footer {
 #projekte .marina-projekt {
     background-image:
         linear-gradient(
-            rgba(255, 255, 255, 0.15),
-            rgba(255, 255, 255, 0.70)
+            rgba(255, 255, 255, 0.05),
+            rgba(255, 255, 255, 0.50)
         ),
         url('marina.png');
 
