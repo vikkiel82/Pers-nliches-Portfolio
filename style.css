@@ -379,10 +379,11 @@ footer {
 #projekte .marina-projekt {
     background-image:
         linear-gradient(
-            rgba(255, 255, 255, 0.88),
-            rgba(255, 255, 255, 0.96)
+            rgba(255, 255, 255, 0.15),
+            rgba(255, 255, 255, 0.70)
         ),
         url('marina.png');
+
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
